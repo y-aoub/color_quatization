@@ -6,7 +6,7 @@ In computer graphics, color quantization or color image quantization is quantiza
 ## Algorithms
 Most standard techniques treat color quantization as a problem of clustering points in three-dimensional space, where the points represent colors found in the original image and the three axes represent the three color channels. Almost any three-dimensional clustering algorithm can be applied to color quantization, and vice versa. After the clusters are located, typically the points in each cluster are averaged to obtain the representative color that all colors in that cluster are mapped to. The three color channels are usually red, green, and blue, but another popular choice is the Lab color space, in which Euclidean distance is more consistent with perceptual difference.
 
-The most popular algorithm by far for color quantization, invented by Paul Heckbert in 1979, is the median cut algorithm. This project in an implementation of a version of this algorithm using Python3.
+The most popular algorithm by far for color quantization, invented by Paul Heckbert in 1979, is [Median Cut Algorithm](https://en.wikipedia.org/wiki/Median_cut) algorithm. This project in an implementation of a version of this algorithm using Python3.
 
 ## Results
 Find below the initial image of the parrot made of 108408 color (left), as well as the resulting image made of only 16 color (left) after applying the algorithm to it.
