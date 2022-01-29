@@ -11,7 +11,7 @@ The most popular algorithm by far for color quantization, invented by Paul Heckb
 ## Results
 Find below the initial image of the parrot (108408 color), as well as the resulting image (16 color) after applying the algorithm.
 
-<p align="center" style="margin: 100px 0px 0px 5px;">
+<p align="center">
   <img src="https://github.com/y-aoub/color_quatization/blob/main/parrot_initial_image.png" width="380" title="hover text">
   
   <img src="https://github.com/y-aoub/color_quatization/blob/main/parrot_final_image.png" style="margin: 0px 0px 0px 0px;" width="380" alt="accessibility text">
