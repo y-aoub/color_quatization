@@ -9,7 +9,7 @@ Most standard techniques treat color quantization as a problem of clustering poi
 The most popular algorithm by far for color quantization, invented by [Paul Heckbert](http://www.cs.cmu.edu/~ph/) in 1979, is [Median cut algorithm](https://en.wikipedia.org/wiki/Median_cut). This project in an implementation of a version of this algorithm using Python3.
 
 ## Results
-Find below the initial image of the parrot made of 108408 color (left), as well as the resulting image made of only 16 color (left) after applying the algorithm to it.
+Find below the [initial image](https://github.com/y-aoub/color_quatization/blob/main/parrot_initial_image.png) of the parrot made of 108408 color (left), as well as the [resulting image](https://github.com/y-aoub/color_quatization/blob/main/parrot_final_image.png) made of only 16 color (right) after applying the algorithm to it.
 
 <p align="center">
   <img src="https://github.com/y-aoub/color_quatization/blob/main/parrot_initial_image.png" width="380" title="Initial Image">
