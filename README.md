@@ -13,6 +13,6 @@ Find below the initial image of the parrot (108408 color), as well as the result
 
 <p align="center">
   <img src="https://github.com/y-aoub/color_quatization/blob/main/parrot_initial_image.png" width="350" title="hover text">
-  <img src="https://github.com/y-aoub/color_quatization/blob/main/parrot_initial_image.png" width="350" alt="accessibility text">
+  <img src="https://github.com/y-aoub/color_quatization/blob/main/parrot_final_image.png" width="350" alt="accessibility text">
 </p>
 
